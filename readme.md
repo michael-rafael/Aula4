@@ -1,8 +1,9 @@
-# Obbrigado ter nodeJs
+# Obrigado ter nodeJs
+## no caso de Debian/Ubuntu e derivados
+https://deb.nodesource.com/
 
-# inicia o projeto
-npm ini -y
-
+git clone 
+## dependencias a serem instaladas
 # instala o express
 npm install express
 

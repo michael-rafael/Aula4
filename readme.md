@@ -1,6 +1,8 @@
 # Obrigado ter nodeJs
 ## no caso de Debian/Ubuntu e derivados
 https://deb.nodesource.com/
+## Centos e outros 
+https://rpm.nodesource.com/
 
 git clone https://github.com/michael-rafael/CHAT_Intensivao_JS.git
 ## dependencias a serem instaladas
